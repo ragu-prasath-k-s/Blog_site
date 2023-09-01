@@ -1,5 +1,5 @@
 # Blog_site
-simple basic blog site using php Laravel framework
+simple basic blog site (blog crud) using php Laravel framework
 steps to run
 1.clone this repository in your local machine.
 2. If(.env file is missing) copy the .env.example file and save as .env file 
